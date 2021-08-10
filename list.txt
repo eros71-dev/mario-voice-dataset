@@ -1,20 +1,20 @@
 wavs/1.wav|It's my pleasure.
 wavs/2.wav|Hello everybody, it's a me, Mario.
-wavs/3.wav|Hello.
+wavs/3.wav|Hello!
 wavs/4.wav|Hello.
 wavs/5.wav|Ha ha.
 wavs/6.wav|Thank you very much for everyone who made this moment possible.
 wavs/7.wav|The princess peach.
-wavs/8.wav|My right hand man Luigi.
+wavs/8.wav|My right hand man Luigi!
 wavs/9.wav|And the best adviser in the business, Toad.
 wavs/10.wav|So, starting today, I'm super duper excited.
 wavs/11.wav|Well, I tell Nintendo.
-wavs/12.wav|We need to make this game super duper.
+wavs/12.wav|We need to make this game super duper!
 wavs/13.wav|And they said.
 wavs/14.wav|I said, nah.
 wavs/15.wav|So they said.
 wavs/16.wav|So I said, that's okay, but.
-wavs/17.wav|Have you thought about, four sports, featuring over the top super duper moves, with none other than me, Mario.
+wavs/xd.wav|Have you thought about, four sports! Featuring over the top super duper moves, with none other than me, Mario!
 wavs/18.wav|Ah, well, the hardest part, was to get all of these all stars on board.
 wavs/19.wav|Some, they were easy.
 wavs/20.wav|Toad, he's always hanging around giving me advice.
@@ -27,7 +27,7 @@ wavs/26.wav|Ha ha, he was all set.
 wavs/27.wav|In fact, he said.
 wavs/28.wav|Something like that.
 wavs/29.wav|Woohoo, fire away! I'm ready for anything.
-wavs/30.wav|Ha ha ha, well, I've got good news.
+wavs/30.wav|Ha ha ha, well, I've got good news!
 wavs/31.wav|Princess Peach.
 wavs/32.wav|She hasn't been captured for a while, it's our longest streak yet.
 wavs/33.wav|So, Mario's had more time to focus on saving the spikes and goals in hockey.
@@ -35,15 +35,15 @@ wavs/34.wav|Oh yeah, it's a great gear long workout.
 wavs/35.wav|Mario highly recommends it.
 wavs/36.wav|That's a good question.
 wavs/37.wav|It has to be.
-wavs/38.wav|Dodgeball.
+wavs/38.wav|Dodgeball!
 wavs/39.wav|I'm always been a real fireballer.
 wavs/40.wav|With a shell, or even, the fireballs, heh heh.
 wavs/41.wav|So I knew, I would be a natural.
-wavs/42.wav|But, I've noticed some of my friends, are taking shots at me.
+wavs/42.wav|But, I've noticed some of my friends, are taking shots at me!
 wavs/43.wav|Heart shots from Princess Peach.
 wavs/44.wav|Rainbow throws from my old pal yoshi.
-wavs/45.wav|Even, a few vacumm wheezers sent at me by my fratello, Luigi.
-wavs/46.wav|Oh.
+wavs/45.wav|Even, a few vacumm wheezers sent at me by my fratello, Luigi!
+wavs/46.wav|Oh!
 wavs/47.wav|Ah Luigi, ha ha, he was probably taken, out of context.
 wavs/48.wav|He loves being my sidekick, he he he.
 wavs/49.wav|Gee that's funny.
@@ -66,33 +66,182 @@ wavs/66.wav|The trophies you win.
 wavs/67.wav|The amount of mushrooms you consume.
 wavs/68.wav|Or even, the Yoshis you ride.
 wavs/69.wav|It really, at the end of the day, is all about the friends you make.
-wavs/70.wav|But, I also really like slamming, jamming on Bowser in this game.
+wavs/70.wav|But, I also really like slamming, jamming on Bowser in this game!
 wavs/71.wav|Well, I think my old friend Yoshi, is playing at a super high level.
-wavs/72.wav|Mmmmm yeah, you might.
+wavs/72.wav|Mmmmm... yeah, you might.
 wavs/73.wav|Well, this might sound kind of strange.
 wavs/74.wav|But, I have a vision, of this beautiful question mark box.
 wavs/75.wav|And I punch it.
 wavs/76.wav|And the fantastic, one up mushroom pops out.
-wavs/77.wav|And another.
-wavs/78.wav|And again, and again, and again, hoo hooh.
-wavs/79.wav|I can go on saving the princess forever, hee hee.
+wavs/77.wav|And another!
+wavs/78.wav|And again, and again, and again, hoo hooh!
+wavs/79.wav|I can go on saving the princess forever, hee hee!
 wavs/80.wav|Well, you know Mario, I'm going with my traditional blue overalls, of course.
-wavs/81.wav|Looking good.
+wavs/81.wav|Looking good!
 wavs/82.wav|Oh yeah.
 wavs/83.wav|I would recommend it to any elite athletes.
 wavs/84.wav|They are great for running, jumping, throwing the fireballs, and dominating.
-wavs/85.wav|Ooh, my monster fire slam.
-wavs/86.wav|Eh, you okay.
+wavs/85.wav|Ooh, my monster fire slam?
+wavs/86.wav|Eh, you okay?
 wavs/87.wav|Well, I have to say.
 wavs/88.wav|The western junction hockey ring is real doozy.
 wavs/89.wav|Yeah yeah, it's a lot like a normal ring, except this one has a choo choo come screaming down the center.
-wavs/90.wav|Eh, we cried.
-wavs/91.wav|How about, mamma mia.
-wavs/92.wav|Number one.
-wavs/93.wav|Here we go.
-wavs/94.wav|Welcome to my new game.
-wavs/95.wav|Ha ha.
-wavs/96.wav|Alright.
-wavs/97.wav|You number one.
-wavs/98.wav|The best.
-wavs/99.wav|Here we go.
+wavs/90.wav|Eh, we cried?
+wavs/91.wav|How about, Mamma mia!
+wavs/92.wav|Number one!
+wavs/93.wav|Here we go!
+wavs/94.wav|Welcome to my new game!
+wavs/95.wav|Ha ha!
+wavs/96.wav|Alright!
+wavs/97.wav|You number one!
+wavs/98.wav|The best!
+wavs/99.wav|Here we go!
+wavs/beautiful.wav|Beautiful!
+wavs/excellent.wav|Excellent!
+wavs/good-shot.wav|Good shot!
+wavs/hallo-ball.wav|Hello ball.
+wavs/here-i-am.wav|Here I am!
+wavs/here-we-go.wav|Here we go!
+wavs/hmmm.wav|Hmmm...
+wavs/hurry-up-already.wav|Hurry up already!
+wavs/im-the-best.wav|I'm the best!
+wavs/mamma-mia.wav|Mamma mia!
+wavs/mario.wav|Mario.
+wavs/mario2.wav|Mario!
+wavs/mario-golf.wav|Mario Golf!
+wavs/mario-is-tops.wav|Mario is tops!
+wavs/nice-shot.wav|Nice shot!
+wavs/oh.wav|Oh!
+wavs/oh-no.wav|Oh no!
+wavs/okay.wav|Okay!
+wavs/oooh.wav|Oooh!
+wavs/uh-oh.wav|Uh oh.
+wavs/wonderful.wav|Wonderful!
+wavs/woo-ho-hoo.wav|Woo ho hoo!
+wavs/ye.wav|Yeh!
+wavs/yee-hoo.wav|Yee hoo!
+wavs/hello10.wav|Hello!
+wavs/here-we-go10.wav|Here we go!
+wavs/mario10.wav|Mario!
+wavs/mario-10-2.wav|Mario.
+wavs/mario-one-woohoo10.wav|Mario number one, woo hoo!
+wavs/mario-time10.wav|Mario time.
+wavs/okie-dokie10.wav|Okie dokie!
+wavs/alright10.wav|Alright.
+wavs/eewww10.wav|Eeewwww!
+wavs/hmm-question10.wav|Hmm?
+wavs/i-did-it10.wav|I did it!
+wavs/oh10.wav|Oh.
+wavs/oh-no10.wav|Oh no!
+wavs/o-ho-no-ho10.wav|Oh no!
+wavs/ooh2-question10.wav|Oh?
+wavs/ooh-question10.wav|Oh?
+wavs/so-nice10.wav|So nice!
+wavs/superstar10.wav|Super star!
+wavs/wa-hoo10.wav|Wahoo!
+wavs/wait10.wav|Wait!
+wavs/ya-haa10.wav|Yahaa!
+wavs/yahoo10.wav|Yahoo!
+wavs/ya-hoo10.wav|Yahoo!
+wavs/yeah10.wav|Yah!
+wavs/yeah10-2.wav|Yeah!
+wavs/yes10.wav|Yes!
+wavs/yes10-2.wav|Yes!
+wavs/im-the-winner-ms.wav|I'm the winner.
+wavs/its-a-mario-time-ms.wav|It's a Mario time.
+wavs/oh-no-i-lost-ms.wav|Oh no, I lost.
+wavs/yes-ms.wav|Yes!
+wavs/ah-mamma-mia-ms.wav|Ah, mamma mia.
+wavs/hoh-mamma-mia-ms.wav|Hoh, mamma mia.
+wavs/mario-get-you-next-time-ms.wav|Mario get you next time.
+wavs/oh-nice-ms.wav|Oh, nice.
+wavs/ooh-ms.wav|Oh.
+wavs/thats-it-ms.wav|That's it!
+wavs/wa-hoo-im-the-winner-ms.wav|Wa hoo! I'm the winner.
+wavs/challenge-me-tt.wav|I'm a been on fire lately, but I hope you challenge me.
+wavs/excuse-me-tt.wav|Excuse me.
+wavs/go-for-it-tt.wav|Go for it!
+wavs/hello-tt.wav|Hello.
+wavs/hm-hmm-tt.wav|Hm hmm.
+wavs/hm-hmm-tt2.wav|Hm hmm.
+wavs/ho-hoo-tt.wav|Ho hoo!
+wavs/its-a-me-tt.wav|It's a me.
+wavs/lets-a-go-tt.wav|Let's go.
+wavs/mario-tt.wav|Mario.
+wavs/move-it-tt.wav|Move it!
+wavs/okay-tt.wav|Okay.
+wavs/you-the-best-tt.wav|You the best!
+wavs/good-choice-mp5.wav|Good choice.
+wavs/ho-hoo-got-it-mp5.wav|Ho hoo, I got it.
+wavs/alright-sms.wav|Alright.
+wavs/arrivederchi-sms.wav|Arrivederci.
+wavs/bye-bye-sms.wav|Bye bye.
+wavs/ciao-sms.wav|Ciao.
+wavs/cool-sms.wav|Cool.
+wavs/excellent-sms.wav|Excellent.
+wavs/its-fun-sms.wav|It's fun.
+wavs/mamma-mia-sms.wav|Mamma mia.
+wavs/oh-yeah-sms.wav|Oh yeah.
+wavs/perfect-ten-sms.wav|Perfect ten.
+wavs/primo-sms.wav|Primo.
+wavs/sweet-sms.wav|Sweet.
+wavs/the-horror-sms.wav|The horror.
+wavs/title-sms.wav|Super Mario, Sunshine. Ho hoo!
+wavs/too-cool-sms.wav|Too cool.
+wavs/watch-it-sms.wav|Watch it!
+wavs/way-to-go-sms.wav|Way to go!
+wavs/another-door-sms.wav|Another door?
+wavs/arent-i-done-yet-sms.wav|Aren't I done yet?
+wavs/boy-oh-boy-sms.wav|Boy, oh boy.
+wavs/easy-sms.wav|Easy...
+wavs/feeling-good-sms.wav|Feeling good!
+wavs/hello-door-sms.wav|Hello door.
+wavs/here-we-go-sms.wav|Here we go.
+wavs/im-beat-sms.wav|I'm beat.
+wavs/lets-a-go-sms.wav|Let's a-go.
+wavs/oh-man-sms.wav|Oh, man.
+wavs/oh-my-head-sms.wav|Oh my head.
+wavs/okie-dokie-sms.wav|Okie dokie.
+wavs/open-salami-sms.wav|Open salami.
+wavs/theres-more-sms.wav|There's more?
+wavs/wahoo-sms.wav|Wahoo...
+wavs/wowza-sms.wav|Wowza.
+wavs/alright-ms.wav|Alright!
+wavs/bye-bye-ms.wav|Bye bye.
+wavs/good-play-ms.wav|Hoohoo! Good play!
+wavs/gotcha-ms.wav|Gotcha!
+wavs/i-did-it-ms.wav|I did it.
+wavs/i-got-it-ms.wav|I got it.
+wavs/its-great-ms.wav|Oh yeah! That's great!
+wavs/lets-a-go2-ms.wav|Let's a go.
+wavs/lets-a-go-ms.wav|Hoohoo! Let's-a go!
+wavs/mamma-mia-ms.wav|Mamma mia!
+wavs/number-one-ms.wav|Mario, number one.
+wavs/oh-no-ms.wav|Oh no.
+wavs/oh-yeah-ms.wav|Oh yeah.
+wavs/see-you-later-ms.wav|See you later.
+wavs/thank-you-much-ms.wav|Thank you so much!
+wavs/yahoo-sm64.wav|Yahoo!
+wavs/oof-sm64.wav|Oof!
+wavs/mamma-mia-sm64.wav|Mamma mia!
+wavs/here-we-go-sm64.wav|Here we gooo!
+wavs/boing-sm64.wav|Boing!
+wavs/ending-sm64.wav|Thank you so much for playing my game.
+wavs/hello-sm64.wav|Hello!
+wavs/lets-a-go-sm64.wav|It's-a me, Mario.
+wavs/okie-dokie-sm64.wav|Okie dokie.
+wavs/press-start-sm64.wav|Press start to play.
+wavs/friday-au.wav|Or at Mayor Melbourne, on Friday, the twenty seven of September.
+wavs/fun-au.wav|Mamma mia! We gonna have fun.
+wavs/hello-its-a-me-au.wav|Hello, it's a me, Mario!
+wavs/im-so-excited-au.wav|I'm so excited because I'm coming down on there next week!
+wavs/mamma-mia-au.wav|Mamma mia!
+wavs/meet-mario-au.wav|So come and meet Mario, at Harvey Norman Moore Park, on Sunday, the twenty seventh of September.
+wavs/megamart-au.wav|Or at Mega Mart in Aubrun, on twenty nine of September!
+wavs/saturday-au.wav|On Saturday, twenty eight September, at M C G.
+wavs/sunday-au-2.wav|It's a Sunday. And, you can see Mario at the very special appearence on the big screen, at the A F L, two thousand two, grand finale!
+wavs/tell-friends-au.wav|I'm gonna tell all of my friends about my new game, Super Mario!
+wavs/thats-right-au.wav||That's right! Mario upside down! In australia!
+wavs/woohoo2-au.wav|Woohoo!
+wavs/woohoo3-au.wav|Woohoo!
+wavs/woohoo-au.wav|Woohoo!
