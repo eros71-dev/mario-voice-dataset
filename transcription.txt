@@ -241,7 +241,113 @@ wavs/megamart-au.wav|Or at Mega Mart in Aubrun, on twenty nine of September!
 wavs/saturday-au.wav|On Saturday, twenty eight September, at M C G.
 wavs/sunday-au-2.wav|It's a Sunday. And, you can see Mario at the very special appearence on the big screen, at the A F L, two thousand two, grand finale!
 wavs/tell-friends-au.wav|I'm gonna tell all of my friends about my new game, Super Mario!
-wavs/thats-right-au.wav||That's right! Mario upside down! In australia!
+wavs/thats-right-au.wav|That's right! Mario upside down! In australia!
 wavs/woohoo2-au.wav|Woohoo!
 wavs/woohoo3-au.wav|Woohoo!
 wavs/woohoo-au.wav|Woohoo!
+wavs/ThankYou-Odyssey.wav|Thank you so much for playing my game!
+wavs/AhVermacelli-Odyssey.wav|Ah, vermacelli.
+wavs/Maccheroni-Odyssey.wav|Maccheroni.
+wavs/MmTortellini-Odyssey.wav|Mmm, tortellini.
+wavs/AhCapellini-Odyssey.wav|Ah, capellini.
+wavs/SuperMarioOdyssey.wav|Super Mario Odyssey!
+wavs/Capellini2-Odyssey.wav|Capellini.
+wavs/Capelli-Odyssey.wav|Capelli.
+wavs/Matriacini.wav|Matriacchini.
+wavs/AhMaccheroniAllaMolinara-Odyssey.wav|Ah, maccheroni alla molinara.
+wavs/Peachy-Odyssey.wav|Peachy.
+wavs/Peachy2-Odyssey.wav|Peachy.
+wavs/Verccatelli-Odyssey.wav|Vercchatelli.
+wavs/OhSpaghettoni-Odyssey.wav|Oh, Spaghettoni.
+wavs/SMP-AH.wav|Ah...
+wavs/SMP-ALRIGHT.wav|Alright!
+wavs/SMP-ALRIGHT-2.wav|Alright.
+wavs/SMP-HA-HAA.wav|Ha ha!
+wavs/SMP-HMM.wav|Hmm...
+wavs/SMP-HOO.wav|Hoo!
+wavs/SMP-HOO-HOO.wav|Hoo hoo!
+wavs/SMP-I-DID-IT.wav|I did it!
+wavs/SMP-I-DID-IT.wav|I did it!
+wavs/SMP-MARIO-TIME.wav|Mario time!
+wavs/SMP-MARIO-YEAH.wav|Mario, yeah!
+wavs/SMP-OH.wav|Oh?
+wavs/SMP-OH-2.wav|Oh?
+wavs/SMP-OH-NO.wav|Oh, no!
+wavs/SMP-OH-YEAH.wav|Oh, yeah!
+wavs/SMP-OH-YEAH-2.wav|Oh yeah!
+wavs/SMP-WOAH.wav|Woah!
+wavs/SMP-WO-HOO.wav|Wo hoo!
+wavs/SMP-WOO-HOO.wav|Woohoo!
+wavs/SMP-WOOOH.wav|Wo-oh-oh-oh!
+wavs/SMP-YA-HAA.wav|Ya-haa!
+wavs/SMP-YES.wav|Yes!
+wavs/NSMBW_AH.wav|Ah.
+wavs/NSMBW_AHAHAHAH.wav|Ah-ah-ah-ah!
+wavs/NSMBW_ALRIGHT.wav|Alright!
+wavs/NSMBW_ALRIGHT2.wav|Alright!
+wavs/NSMBW_COMEBACK.wav|Come back!
+wavs/NSMBW_EH.wav|Eh.
+wavs/NSMBW_EH2.wav|Eh!
+wavs/NSMBW_HA2.wav|Haa!
+wavs/NSMBW_HAH.wav|Ha!
+wavs/NSMBW_HAH2.wav|Ha!
+wavs/NSMBW_HAHAA.wav|Ha ha!
+wavs/NSMBW_HEREWEGO.wav|Here we go!
+wavs/NSMBW_HEREWEGO.wav|Here we go again!
+wavs/NSMBW_HO.wav|Ho!
+wavs/NSMBW_HOH.wav|Hoh!
+wavs/NSMBW_HOO.wav|Hoo!
+wavs/NSMBW_HOOHOO.wav|Hoo hoo!
+wavs/NSMBW_HUH.wav|Huh?
+wavs/NSMBW_HUH2.wav|Huh?
+wavs/NSMBW_IDIDIT.wav|I did it!
+wavs/NSMBW_ITSAGOTIME.wav|It's-a go time!
+wavs/NSMBW_LETSAGO.wav|Let's-a go!
+wavs/NSMBW_LETSAGO2.wav|Let's go!
+wavs/NSMBW_LETSAPLAY.wav|Let's-a play!
+wavs/NSMBW_MARIONUMBERONEHOOHOO.wav|Mario, number one! Woohoo!
+wavs/NSMBW_MARIOTIMEHOHOO.wav|Mario time! Hoo hoo!
+wavs/NSMBW_OH.wav|Oh.
+wavs/NSMBW_OH2.wav|Oh?
+wavs/NSMBW_OH3.wav|Oh?
+wavs/NSMBW_OH4.wav|Oh?
+wavs/NSMBW_OH5.wav|Oh!
+wavs/NSMBW_OH-HOHOH.wav|Oh, hoh hoh!
+wavs/NSMBW_OHNO.wav|Oh no!
+wavs/NSMBW_OH-NO.wav|Oh no!
+wavs/NSMBW_OHOH.wav|Oh hoh!
+wavs/NSMBW_OHOHOH.wav|Oh hoh hoh.
+wavs/NSMBW_OHYEAH.wav|Oh yeah!
+wavs/NSMBW_OHYEAH2.wav|Oh yeah!
+wavs/NSMBW_OHYEAHMARIOTIME.wav|Oh yeah, Mario time!
+wavs/NSMBW_OKIEDOKIE.wav|Okie dokie!
+wavs/NSMBW_OOH.wav|Ooh!
+wavs/NSMBW_OOPSIE.wav|Woopsie!
+wavs/NSMBW_OUCH.wav|Ouch!
+wavs/NSMBW_OW.wav|Ow!
+wavs/NSMBW_STOP.wav|Stop!
+wavs/NSMBW_WAH.wav|Wah!
+wavs/NSMBW_WAHOO.wav|Wahoo!
+wavs/NSMBW_WAHOO2.wav|Wahoo!
+wavs/NSMBW_WAIT.wav|Wait!
+wavs/NSMBW_WEEE.wav|Weee!
+wavs/NSMBW_WEEHEE.wav|Weehee!
+wavs/NSMBW_WOAH.wav|Whoa!
+wavs/NSMBW_WOAH2.wav|Woah!
+wavs/NSMBW_WOO.wav|Woo!
+wavs/NSMBW_WOOHOO.wav|Woohoo!
+wavs/NSMBW_WOOHOO2.wav|Woohoo!
+wavs/NSMBW_WOOHOO3.wav|Woohoo!
+wavs/NSMBW_HOOHOOTHISWAY.wav|Hoohoo, this way!
+wavs/NSMBW_YAH.wav|Yah!
+wavs/NSMBW_YAH2.wav|Yah!
+wavs/NSMBW_YAH3.wav|Yah!
+wavs/NSMBW_YAH4.wav|Yah!
+wavs/NSMBW_YAH5.wav|Yah!
+wavs/NSMBW_YAH6.wav|Yah!
+wavs/NSMBW_YAHOO.wav|Ya hoo!
+wavs/NSMBW_YAHOOHOOHOO.wav|Ya hoo hoo hoo!
+wavs/NSMBW_YE.wav|Ye!
+wavs/NSMBW_YEAH2.wav|Yeah!
+wavs/NSMBW_YES.wav|Yes!
+wavs/NSMBW_YES2.wav|Yes!
