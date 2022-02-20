@@ -282,22 +282,15 @@ wavs/SMP-WOOOH.wav|Wo-oh-oh-oh!
 wavs/SMP-YA-HAA.wav|Ya-haa!
 wavs/SMP-YES.wav|Yes!
 wavs/NSMBW_AH.wav|Ah.
-wavs/NSMBW_AHAHAHAH.wav|Ah-ah-ah-ah!
 wavs/NSMBW_ALRIGHT.wav|Alright!
 wavs/NSMBW_ALRIGHT2.wav|Alright!
 wavs/NSMBW_COMEBACK.wav|Come back!
-wavs/NSMBW_EH.wav|Eh.
+wavs/NSMBW_EH.wav|Eh!
 wavs/NSMBW_EH2.wav|Eh!
-wavs/NSMBW_HA2.wav|Haa!
-wavs/NSMBW_HAH.wav|Ha!
 wavs/NSMBW_HAH2.wav|Ha!
 wavs/NSMBW_HAHAA.wav|Ha ha!
 wavs/NSMBW_HEREWEGO.wav|Here we go!
 wavs/NSMBW_HEREWEGO.wav|Here we go again!
-wavs/NSMBW_HO.wav|Ho!
-wavs/NSMBW_HOH.wav|Hoh!
-wavs/NSMBW_HOO.wav|Hoo!
-wavs/NSMBW_HOOHOO.wav|Hoo hoo!
 wavs/NSMBW_HUH.wav|Huh?
 wavs/NSMBW_HUH2.wav|Huh?
 wavs/NSMBW_IDIDIT.wav|I did it!
@@ -309,8 +302,6 @@ wavs/NSMBW_MARIONUMBERONEHOOHOO.wav|Mario, number one! Woohoo!
 wavs/NSMBW_MARIOTIMEHOHOO.wav|Mario time! Hoo hoo!
 wavs/NSMBW_OH.wav|Oh.
 wavs/NSMBW_OH2.wav|Oh?
-wavs/NSMBW_OH3.wav|Oh?
-wavs/NSMBW_OH4.wav|Oh?
 wavs/NSMBW_OH5.wav|Oh!
 wavs/NSMBW_OH-HOHOH.wav|Oh, hoh hoh!
 wavs/NSMBW_OHNO.wav|Oh no!
@@ -321,7 +312,6 @@ wavs/NSMBW_OHYEAH.wav|Oh yeah!
 wavs/NSMBW_OHYEAH2.wav|Oh yeah!
 wavs/NSMBW_OHYEAHMARIOTIME.wav|Oh yeah, Mario time!
 wavs/NSMBW_OKIEDOKIE.wav|Okie dokie!
-wavs/NSMBW_OOH.wav|Ooh!
 wavs/NSMBW_OOPSIE.wav|Woopsie!
 wavs/NSMBW_OUCH.wav|Ouch!
 wavs/NSMBW_OW.wav|Ow!
@@ -330,24 +320,9 @@ wavs/NSMBW_WAH.wav|Wah!
 wavs/NSMBW_WAHOO.wav|Wahoo!
 wavs/NSMBW_WAHOO2.wav|Wahoo!
 wavs/NSMBW_WAIT.wav|Wait!
-wavs/NSMBW_WEEE.wav|Weee!
-wavs/NSMBW_WEEHEE.wav|Weehee!
-wavs/NSMBW_WOAH.wav|Whoa!
-wavs/NSMBW_WOAH2.wav|Woah!
-wavs/NSMBW_WOO.wav|Woo!
-wavs/NSMBW_WOOHOO.wav|Woohoo!
-wavs/NSMBW_WOOHOO2.wav|Woohoo!
 wavs/NSMBW_WOOHOO3.wav|Woohoo!
 wavs/NSMBW_HOOHOOTHISWAY.wav|Hoohoo, this way!
-wavs/NSMBW_YAH.wav|Yah!
-wavs/NSMBW_YAH2.wav|Yah!
-wavs/NSMBW_YAH3.wav|Yah!
-wavs/NSMBW_YAH4.wav|Yah!
-wavs/NSMBW_YAH5.wav|Yah!
-wavs/NSMBW_YAH6.wav|Yah!
 wavs/NSMBW_YAHOO.wav|Ya hoo!
-wavs/NSMBW_YAHOOHOOHOO.wav|Ya hoo hoo hoo!
-wavs/NSMBW_YE.wav|Ye!
 wavs/NSMBW_YEAH2.wav|Yeah!
 wavs/NSMBW_YES.wav|Yes!
 wavs/NSMBW_YES2.wav|Yes!
